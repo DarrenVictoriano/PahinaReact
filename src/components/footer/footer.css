@@ -1,0 +1,25 @@
+.footer {
+    font-size: 14px;
+    color: #9a9da0;
+    min-width: 100%;
+    position: absolute;
+    bottom: 0px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.footer-mb {
+    font-size: 12px;
+    color: #9a9da0;
+    min-width: 100%;
+    position: absolute;
+    bottom: 0px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.footer-hr {
+    border-color: #474e56;
+    border-width: 2px;
+    width: 90%;
+}

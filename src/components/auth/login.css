@@ -1,0 +1,17 @@
+
+.learn-more {
+    color: #ccd6f6;
+}
+
+.learn-more:hover {
+    text-decoration: none;
+    color: #64ffda;
+}
+
+.form-login {
+    width: 300px;
+}
+
+.btn-sizer {
+    width: 80px;
+}

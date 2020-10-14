@@ -1,0 +1,29 @@
+.brand-name {
+    min-width: 105px;
+}
+
+.brand-link:hover {
+    text-decoration: none;
+}
+
+.brand-h1 {
+    font-size: 30px;
+    color: #64ffda;
+}
+
+.brand-h1:hover {
+    color: #ccd6f6;
+}
+
+.nav-link {
+    color: #8892b0;
+}
+
+.nav-link:hover {
+    text-decoration: none;
+    color: #64ffda;
+}
+
+.active {
+    color: #64ffda;
+}

@@ -1,0 +1,26 @@
+/* Page */
+
+
+/* Thumbnail */
+.link-router:hover {
+    text-decoration: none;
+}
+
+.read-article:hover {
+    color: #64ffda;
+}
+
+.btn-size {
+width: 80px;
+}
+
+ul li a {
+    color: #64ffda;
+}
+
+ul li a:hover {
+    text-decoration: none;
+    color: #a8b2d1;
+}
+
+/* Post Form */

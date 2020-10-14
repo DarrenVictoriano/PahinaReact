@@ -1,0 +1,46 @@
+
+.home-content {
+    color: #9a9da0;
+    margin-top: 35vh;
+}
+
+.home-content-mb {
+    color: #9a9da0;
+    margin-top: 30vh;
+}
+
+.home-content-title {
+    font-size: 80px;
+}
+
+.home-content-title-mb {
+    font-size: 40px;
+}
+
+.home-content-desc-mb {
+    font-size: 14px;
+}
+
+.media-icons a {
+    padding-left: 15px;
+    padding-right: 15px;
+    color: #8892b0;
+}
+
+.media-icons a:hover {
+color: #64ffda;
+}
+
+.title-hr {
+    margin-top: 0px;
+    border-width: 2px;
+    border-color: #8892b0;
+    width: 55%;
+}
+
+.title-hr-mb {
+    margin-top: 0px;
+    border-width: 2px;
+    border-color: #474e56;
+    width: 90%;
+}
