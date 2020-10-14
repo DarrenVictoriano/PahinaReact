@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/PahinaReact/static/css/main.6b63f049.chunk.css",
+    "main.js": "/PahinaReact/static/js/main.565f9c77.chunk.js",
+    "main.js.map": "/PahinaReact/static/js/main.565f9c77.chunk.js.map",
+    "runtime-main.js": "/PahinaReact/static/js/runtime-main.fc4d717b.js",
+    "runtime-main.js.map": "/PahinaReact/static/js/runtime-main.fc4d717b.js.map",
+    "static/css/2.06de684b.chunk.css": "/PahinaReact/static/css/2.06de684b.chunk.css",
+    "static/js/2.a899cf9d.chunk.js": "/PahinaReact/static/js/2.a899cf9d.chunk.js",
+    "static/js/2.a899cf9d.chunk.js.map": "/PahinaReact/static/js/2.a899cf9d.chunk.js.map",
+    "index.html": "/PahinaReact/index.html",
+    "precache-manifest.6dece0020e7745452ba3a53fe3174084.js": "/PahinaReact/precache-manifest.6dece0020e7745452ba3a53fe3174084.js",
+    "service-worker.js": "/PahinaReact/service-worker.js",
+    "static/css/2.06de684b.chunk.css.map": "/PahinaReact/static/css/2.06de684b.chunk.css.map",
+    "static/css/main.6b63f049.chunk.css.map": "/PahinaReact/static/css/main.6b63f049.chunk.css.map",
+    "static/js/2.a899cf9d.chunk.js.LICENSE.txt": "/PahinaReact/static/js/2.a899cf9d.chunk.js.LICENSE.txt",
+    "static/media/all.css": "/PahinaReact/static/media/fa-solid-900.ee09ad75.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc4d717b.js",
+    "static/css/2.06de684b.chunk.css",
+    "static/js/2.a899cf9d.chunk.js",
+    "static/css/main.6b63f049.chunk.css",
+    "static/js/main.565f9c77.chunk.js"
+  ]
+}
